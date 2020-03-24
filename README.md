@@ -17,6 +17,15 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+
+###`Output Picture`
+<img src="Screenshot (813).png">
+<img src="Screenshot (814).png">
+<img src="Screenshot (815).png">
+<img src="Screenshot (816).png">
+<img src="Screenshot (817).png">
+
+
 ### `yarn build`
 
 Builds the app for production to the `build` folder.<br />
